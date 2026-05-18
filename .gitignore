@@ -1,0 +1,4 @@
+.env
+uv.lock
+.claude
+chat_history.db
