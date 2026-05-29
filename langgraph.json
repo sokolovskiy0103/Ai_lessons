@@ -1,0 +1,9 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "Tolik": "./agents/orchestrator.py:agent",
+    "Sanyok": "./agents/planer.py:agent",
+    "Valerchyk": "./agents/guide.py:agent"
+  },
+  "env": ".env"
+}
