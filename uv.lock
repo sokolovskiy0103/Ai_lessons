@@ -1627,6 +1627,7 @@ dependencies = [
     { name = "langgraph-cli" },
     { name = "matplotlib" },
     { name = "numpy" },
+    { name = "requests" },
     { name = "sentence-transformers" },
 ]
 
@@ -1642,6 +1643,7 @@ requires-dist = [
     { name = "langgraph-cli", specifier = ">=0.4.26" },
     { name = "matplotlib", specifier = ">=3.10.9" },
     { name = "numpy", specifier = ">=2.4.4" },
+    { name = "requests", specifier = ">=2.31.0" },
     { name = "sentence-transformers", specifier = ">=5.5.0" },
 ]
 
