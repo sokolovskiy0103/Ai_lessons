@@ -17,4 +17,5 @@ dependencies = [
     "langgraph-api>=0.8.7",
     "langchain-anthropic>=1.4.4",
     "requests>=2.31.0",
+    "pandas-stubs~=3.0.3",
 ]
